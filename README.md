@@ -85,7 +85,7 @@ agile-engineering-and-technical-services
 
 1. Clone the repository directory to your local drive:
 ```bash
-   git clone [https://github.com/Sinsydev/agile-engineering-and-technical-services.git] (https://github.com/Sinsydev/agile-engineering-and-technical-services.git)
+git clone [https://github.com/Sinsydev/agile-engineering-and-technical-services.git] (https://github.com/Sinsydev/agile-engineering-and-technical-services.git)
 
 
 cd agile-engineering-and-technical-services
@@ -95,6 +95,9 @@ npm install
 
 
 npm run dev
+
+
+
 
  👨‍💻 Author
 Ismail Aminu Said
